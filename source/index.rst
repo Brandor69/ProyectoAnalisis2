@@ -13,6 +13,7 @@ Contents:
 
    objetivos
    proyecto
+   disenio
 
 
 
