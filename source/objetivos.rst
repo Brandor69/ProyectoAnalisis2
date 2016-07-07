@@ -1,6 +1,8 @@
 **Sistema Casa de la Cultura**
 ==============================
 
+
+
 **Reseña**
 -----------
 
@@ -11,7 +13,7 @@ Casa de la Cultura de Quetzaltenango.  Se acepto el proyecto para que los
 estudiantes pongan en practica todo su conocimiento y para beneficiar a 
 una entidad municipal.
  
-
+ 
 
 **Casa de la Cultura**
 -----------------------
@@ -32,8 +34,8 @@ de facilitar las desiciones a nivel de gerencial.
 **Objetivos del proyecto**
 ---------------------------
 
-1. Llegar a tener por lo menos 7000 usuarios en sus principios.
-2. Desplegar información puntual y ordenada para facilitar el contacto con el artista.
-3. Reducir en un 50% el tiempo de respuesta a la peticion de un artista para la 
+#. Desplegar información puntual y ordenada para facilitar el contacto con el artista.
+#. Reducir en un 50% el tiempo de respuesta a la peticion de un artista para la 
    realización de un evento en una instalación municipal.
-4. Desplegar estadisticas ordenada y confiable sobre los eventos y artistas. 
+#. Desplegar estadisticas ordenada y confiable sobre los eventos y artistas.
+#. Mostrar al menos 5 capsulas informativas al dia. 

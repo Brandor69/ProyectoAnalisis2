@@ -2,13 +2,11 @@
 ===========================
 
 
-
 **Casos de Uso General**
 ------------------------
 
 .. figure:: _static/Diagramadecasodeuso.png
    :align:  center
-
 
 
 **Acceso**
@@ -18,13 +16,11 @@
    :align:  center
 
 
-
 **Administracion**
 ------------------
 
 .. figure:: _static/Administracion.png
    :align:  center
-
 
 
 **Visitantes**
@@ -34,13 +30,11 @@
    :align:  center
 
 
-
 **Artista**
 -----------
 
 .. figure:: _static/Artista.png
    :align:  center
-
 
 
 **Capsulas informativas**
@@ -52,10 +46,10 @@
 
 
 **Clases**
-----------
+==========
 
 
 
 **Diagrama de BD**
-------------------
+==================
 
