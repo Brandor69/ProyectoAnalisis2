@@ -35,7 +35,7 @@ extensions = [
     'sphinx.ext.ifconfig',
     'rst2pdf.pdfbuilder',
 ]
-pdf_documents = [('index',u'nombre',u'Titulo',u'autor')]
+pdf_documents = [('index',u'ProyectoFinal',u'Sistema Sistema Casa de la Cultura',u'Brandon Rodas')]
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
